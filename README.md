@@ -1,11 +1,17 @@
-# [Project Name]
-## Overview
-Short description of the project.
+# [별안간출발⭐]
+## overview
+연세대학교 테크포임팩트프로젝트 수업 관련 repository입니다.
 ## Features
-- Feature 1
-- Feature 2
-## How to Set Up
-1. Install dependencies: `npm install`
-2. Run the project: `npm start`
+- 배달라이더
+- 이륜차 사용자 (고령층)
+- 전동 보장구 (장애인)
+##  구현 서비스 관련
+1. IOT 서비스
+2. 
 ## Contributors
-List team members.
+양승준(리더)
+김나연
+김서진
+박아람
+여민서
+황수현
