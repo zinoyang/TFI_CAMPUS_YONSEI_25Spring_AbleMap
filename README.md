@@ -217,6 +217,6 @@ The service is currently running in the following environment:
 
 
 <div align="center">
-<p><strong>누군가에겐, 오늘의 외출이 모험이기에, 그 모험이 덜 두렵도록 저희가 돕겠습니다. <br/> (For those whose every outing is an adventure, we’re here to help make each step a little braver and a little brighter.)</strong></p>
+<p><strong>누군가에겐 오늘의 외출이 모험이기에, 그 모험이 덜 두렵도록 저희가 돕겠습니다. <br/> (For those whose every outing is an adventure, we’re here to help make each step a little braver and a little brighter.)</strong></p>
 <p>Made by 별안간출발(Sudden star-t)⭐ Team</p>
 </div>
