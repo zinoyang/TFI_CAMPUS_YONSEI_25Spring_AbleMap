@@ -25,6 +25,8 @@ AbleMap is an AI-powered accessibility information service designed to help whee
 - **AI 기술 활용**: 수동 데이터 입력의 한계를 극복한 자동화된 정보 수집
 <br/>
 
+
+  
 - **Enhance information accessibility**: Consolidate scattered accessibility information into a single platform
 - **Crowdsourcing-based expansion**: Expand the service nationwide through active user participation
 - **Utilize AI technology**: Automate information collection to overcome the limitations of manual data entry
@@ -61,6 +63,7 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 - 모바일 우선 반응형 웹 서비스
 - 카카오 지도 API 연동으로 정확한 위치 정보 제공
 - RESTful API 구조로 향후 앱 확장 용이
+<br/>
 
 ### 🔍 Location Search & Accessibility Information
 - Real-time, location-based accessibility information for nearby places
@@ -98,6 +101,7 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 - **지역 확산**: 전국 주요 도시로의 서비스 영역 확장
 - **기능 다양화**: 휠체어 너비, 경사도, 문폭 등 세부 접근성 정보 추가
 - **대상 확대**: 시각장애인, 청각장애인 등 다양한 장애 유형에 특화된 정보 제공
+<br/>
 
 ### 📊 Social Impact
 - **Consolidated Accessibility Data**: Unified scattered accessibility information into a single platform for maximum user convenience
@@ -137,10 +141,10 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 - **API Interation**: 외부 API 서비스 연동 
 
 ### Development Tools
-| Platform | Replit |
-| Package Manager | npm |
-| Build Tool | Vite (Frontend), esbuild (Backend) |
-| Development Server | Hot Module Replacement (HMR) |
+- **Platform**: Replit 
+- **Package Manager**: npm 
+- **Build Tool**: Vite (Frontend), esbuild (Backend) 
+- **Development Server**: Hot Module Replacement (HMR) 
 
 ## 👥 팀 소개 (Team Introduction)
 
@@ -159,7 +163,7 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 
 **Fellow**
 - 별따러가자 김경목 펠로우님 (Kyungmok Kim @ Starpickers)
-- 🌟 [Starpickers 공식 웹사이트](https://starpickers.imweb.me/Starpickers)
+- 🌟 [Starpickers Website](https://starpickers.imweb.me/Starpickers)
 
 **Mentor**
 - 카카오모빌리티 이형구 멘토님 (Hyungkoo Lee @ Kakaomobility)
@@ -169,13 +173,14 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 ### 📅 프로젝트 관리 (Project Management)
 - **일정 관리**: Notion 캘린더 위젯을 활용한 체계적 일정 관리
   - 진행 중인 작업과 완료된 작업을 별도 페이지로 분류
-  - 각 작업의 진행 상황을 실시간으로 파악 가능
+  - 각 작업의 진행 상황을 실시간으로 업데이트
 - **이슈 관리**: Notion 기반의 이슈 등록 및 추적 시스템
 - **문서화**: [📋 프로젝트 Notion 페이지](https://www.notion.so/1b2238b0bab48002b253ead3281724c6)
+<br/>
 
 - **Schedule Management**: Systematic scheduling using Notion calendar widgets
   - Ongoing and completed tasks are organized on separate pages
-  - Real-time tracking of each task’s progress
+  - Real-time updates on the progress of each task
 - **Issue Tracking**: Issue registration and tracking system based on Notion
 - **Documentation**: [📋 Project Notion Page](https://www.notion.so/1b2238b0bab48002b253ead3281724c6)
 
@@ -203,6 +208,7 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 - **빌드 도구**: Vite (클라이언트), esbuild (서버)
 - **정적 파일**: `dist/public` 디렉터리에 빌드됨
 - **환경변수**: 프로덕션 환경에서 별도 관리
+<br/>
 
 The service is currently running in the following environment:
 
@@ -214,6 +220,9 @@ The service is currently running in the following environment:
 - **Build Tools**: Vite (client), esbuild (server)
 - **Static Files**: Built into the dist/public directory
 - **Environment Variables**: Managed separately for the production environment
+<br/>
+<br/>
+
 
 <div align="center">
 <p><strong>누군가에겐, 오늘의 외출이 모험이기에, 그 모험이 덜 두렵도록 저희가 돕겠습니다. <br/> (For those whose every outing is an adventure, we’re here to help make each step a little braver and a little brighter.)</strong></p>
