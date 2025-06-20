@@ -1,5 +1,5 @@
 
-# AbleMap (에이블맵) ⭐
+# 에이블맵 (Ablemap) ⭐
 ## AI 기반 크라우드소싱 접근성 정보 제공 서비스 <br/> (AI-based crowdsourced accessibility information service)
 
 
