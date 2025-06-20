@@ -57,7 +57,6 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 ### 🔖 개인화 서비스
 - 북마크 기능으로 자주 방문하는 장소 관리
 - 카카오 로그인을 통한 개인 맞춤형 서비스
-- 사용 이력 기반 장소 추천
 
 ### 🌐 확장 가능한 플랫폼
 - 모바일 우선 반응형 웹 서비스
@@ -78,7 +77,6 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 ### 🔖 Personalized Services
 - Bookmark frequently visited places for easy access
 - Personalized experience with Kakao login integration
-- Location recommendations based on user activity history
 
 ### 🌐 Scalable Platform
 - Mobile-first, responsive web service
@@ -89,34 +87,28 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 
 ### 📊 사회적 영향
 - **접근성 정보 통합**: 분산된 접근성 정보를 하나의 플랫폼에 통합하여 사용자 편의성 극대화
-- **디지털 포용 실현**: AI 기술을 활용해 장애인의 디지털 접근성을 획기적으로 개선
 - **크라우드소싱 생태계**: 사용자 참여를 통한 지속 가능한 정보 수집 체계 구축
 
 ### 🚀 기술적 혁신
 - **AI 자동화**: 기존 수기 입력 방식 대비 효율성 향상
 - **이미지 분석**: 컴퓨터 비전 기술을 활용한 접근성 정보 자동 추출
-- **실시간 처리**: 업로드 즉시 접근성 정보 분석 및 제공
 
 ### 🌍 확장 가능성
 - **지역 확산**: 전국 주요 도시로의 서비스 영역 확장
 - **기능 다양화**: 휠체어 너비, 경사도, 문폭 등 세부 접근성 정보 추가
-- **대상 확대**: 시각장애인, 청각장애인 등 다양한 장애 유형에 특화된 정보 제공
 <br/>
 
 ### 📊 Social Impact
 - **Consolidated Accessibility Data**: Unified scattered accessibility information into a single platform for maximum user convenience
-- **Digital Inclusion**: Revolutionized digital accessibility for people with disabilities using AI technology
 - **Crowdsourcing Ecosystem**: Established sustainable data collection through active user participation
 
 ### 🚀 Technological Innovation
 - **AI Automation**: Increased efficiency by replacing manual data entry
 - **Image Analysis**: Automated extraction of accessibility data using computer vision
-- **Real-Time Processing**: Instant analysis and delivery of accessibility information upon upload
 
 ### 🌍 Scalability
 - **Regional Expansion**: Service scaling to major cities nationwide
 - **Feature Diversification**: Adding detailed metrics (wheelchair width, slope angle, door width)
-- **User Base Expansion**: Specialized information for visual/hearing-impaired users and other disability types
 
 ## 🛠 개발 환경 (Development Environment)
 
