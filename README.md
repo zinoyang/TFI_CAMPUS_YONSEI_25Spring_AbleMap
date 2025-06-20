@@ -140,7 +140,7 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 
 ## 👥 팀 소개 (Team Introduction)
 
-### 🌟 팀명: 별안간출발⭐ (Sudden Star-t)
+### 🌟 팀명: 별안간출발 (Sudden Star-t)
 
 | 역할(Role) | 이름(Name) | 담당 업무(Responsibilities) | 연락처(contact) |
 |------|------|-----------|--------|
