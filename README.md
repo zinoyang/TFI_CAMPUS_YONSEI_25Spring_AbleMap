@@ -144,11 +144,11 @@ AbleMap aims to create an inclusive, barrier-free society where not only wheelch
 
 | 역할(Role) | 이름(Name) | 담당 업무(Responsibilities) | 연락처(contact) |
 |------|------|-----------|--------|
-| PM, 기획 (PM, Planner) | 양승준 | 프로젝트 매니징, 서비스 기획 ((Project management, service planning) | - |
-| 기획 (Planner) | 김나연 | UX/UI 기획, 사용자 경험 설계 (UX/UI planning, user experience design) | - |
-| AI 개발 (AI developer)| 김서진 | AI 모델 개발, 이미지 분석 시스템 (AI model development, image analysis system) | - |
-| 기획 (Planner)| 박아람 | 비즈니스 모델, 서비스 전략 (Business model, service strategy)| - |
-| 개발 (Developer)| 여민서 | 백엔드/프론트엔드 개발 (Backend/Frontend development) | - |
+| PM, 기획 (PM, Planner) | 양승준 (Seungjun Yang)| 프로젝트 매니징, 서비스 기획 ((Project management, service planning) | ✉️ @yonsei.ac.kr<br/>🔗 GitHub: |
+| 기획 (Planner) | 김나연 (Nayeon Kim)| UX/UI 기획, 사용자 경험 설계 (UX/UI planning, user experience design) | ✉️ @yonsei.ac.kr<br/>🔗 GitHub: |
+| AI 개발 (AI developer)| 김서진 (Seojin Kim)| AI 모델 개발, 이미지 분석 시스템 (AI model development, image analysis system) | ✉️ @yonsei.ac.kr<br/>🔗 GitHub: |
+| 기획 (Planner)| 박아람 (Aram Park)| 비즈니스 모델, 서비스 전략 (Business model, service strategy)| ✉️ @yonsei.ac.kr<br/>🔗 GitHub:|
+| 개발 (Developer)| 여민서 (Minseo Yeo)| 백엔드/프론트엔드 개발 (Backend/Frontend development) | ✉️ @yonsei.ac.kr<br/>🔗 GitHub:|
 | 개발 (Developer)| 황수현 (Suhyun Hwang) | 백엔드/프론트엔드 개발 (Backend/Frontend development) | ✉️ hyuneee@yonsei.ac.kr<br/>🔗 GitHub: Hwang102-star |
 
 ### 🤝 멘토링 및 지원
